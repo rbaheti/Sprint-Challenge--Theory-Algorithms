@@ -32,7 +32,7 @@ both `antelope` and `antelopes`.)
   1999-01-20
   812-2-10
 
-  Answer: \d?\d?\d?\d?-\d\d?-\d\d?
+  Answer: \d\d?\d?\d?-\d\d?-\d\d?
 
 ## State Machines
 
